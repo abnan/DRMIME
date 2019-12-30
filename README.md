@@ -7,6 +7,9 @@ MRMMReg - A Multi-Resolution Manifold Based Registration Technique Using MINE
 
 Images used:
 
+MonoModal images from FIRE (https://projects.ics.forth.gr/cvrl/fire/)
+
+MultiModal images from ANHIR (https://anhir.grand-challenge.org/Data/)
 
 A sample of the sequence of registration as gradient descent progresses
 ![MRMMReg](https://github.com/abnan/MultiResManifoldMINE/blob/master/images/transformation_sequence_smaller.gif "MRMMReg")
