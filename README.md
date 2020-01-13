@@ -1,5 +1,5 @@
-# MRMMReg
-MRMMReg - A Multi-Resolution Manifold Based Registration Technique Using MINE
+# DRMIME
+DRMIME - Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration
 
 1. [MonoModal Registration](../blob/master/01_MonoModal_Registration.ipynb)
 
@@ -13,4 +13,4 @@ Images used:
 
 A sample of the sequence of registration as gradient descent progresses
 
-![MRMMReg](https://github.com/abnan/MultiResManifoldMINE/blob/master/images/transformation_sequence_smaller.gif "MRMMReg")
+![DRMIME](https://github.com/abnan/MultiResManifoldMINE/blob/master/images/transformation_sequence_smaller.gif "DRMIME")
