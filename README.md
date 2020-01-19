@@ -7,7 +7,7 @@ Images used:
 
 2. MultiModal images from [ANHIR](https://anhir.grand-challenge.org/Data/)
 
-# A sample of the sequence of registration as gradient descent progresses
+# A sample of the sequence of registration as optimization progresses
 ![Sequence](https://github.com/abnan/MultiResManifoldMINE/blob/master/images/transformation_sequence_smaller.gif "Sequence")
 
 # DRMIME end to end pipeline:
