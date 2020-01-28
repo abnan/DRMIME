@@ -1,5 +1,5 @@
 # DRMIME
-DRMIME - Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration
+Differentiable Mutual Information and Matrix Exponential for Multi-Resolution Image Registration: https://arxiv.org/abs/2001.09865
 
 Images used:
 
